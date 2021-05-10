@@ -1,7 +1,7 @@
 # Data analytics specialization
 ## _freeCodeCamp_
 
-In the Data Analysis with Python Certification, I learned the fundamentals of data analysis with Python. It covered how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data. The folder contains some opf thje projects I complete to demonstrate my understanding of data analysis with Python:
+In the Data Analysis with Python Certification, I learned the fundamentals of data analysis with Python. It covered how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data. The folder contains some of thje projects I completes to demonstrate my understanding of data analysis with Python:
 
 - [Mean-Variance-Standard Deviation Calculator](mean-variance-standard-deviation-calculator).
 - [Demographic Data Analyzer](demographic-data-analyzer).
